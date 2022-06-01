@@ -1,0 +1,23 @@
+.Index {
+    background-image: url("../img/fondo2.jpg");
+}
+body{
+    background-image: url("../img/fondo3light.jpg");
+}
+
+header .Isotipo {
+    font-size: 600%;
+    color: white;
+    text-shadow: 5px 5px 15px rgb(0, 0, 0);
+    font-family: 'Saira Stencil One', cursive;
+}
+header .slogan{
+    font-size: 300%;
+    color: white;
+    text-shadow: 5px 5px 15px rgb(0, 0, 0);
+    font-family: 'Rowdies', cursive;
+}
+.TusProyectos {
+    font-size: 400%;
+}
+
